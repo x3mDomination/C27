@@ -1,2 +1,2 @@
-# C27
-Angry birds using constraint concept.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
